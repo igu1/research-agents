@@ -3,7 +3,7 @@ requires = ["setuptools"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "research-agents"
+name = "researchagent"
 version = "0.0.1.dev"
 description = "🤗 Agents: a barebones library for agents. Agents write python code to call tools or orchestrate other agents."
 authors = [
