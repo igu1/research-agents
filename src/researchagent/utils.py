@@ -25,10 +25,18 @@ BASE_BUILTIN_MODULES = [
     "queue",
     "random",
     "re",
-    "stat",
     "statistics",
     "time",
+    "typing",
     "unicodedata",
+    "functools",
+    "operator",
+    "os",
+    "sys",
+    "base64",
+    "json",
+    "string",
+    "textwrap",
 ]
 
 
