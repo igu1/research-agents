@@ -2,4 +2,4 @@
 FROM e2bdev/code-interpreter:latest 
 
 # Install dependencies and customize sandbox
-RUN pip install git+https://github.com/huggingface/smolagents.git
+RUN pip install git+https://github.com/igu1/research-agents
